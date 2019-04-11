@@ -8,6 +8,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Add mutation for bulk delete order lines - #3935 by @akjanik 
 
 - Add mutations for (un)publish multiple pages - #3954 by @akjanik
+- Add mutations for publishing and unpublishing multiple pages - #3954 by @akjanik
 
 ## 2.5.0
 
